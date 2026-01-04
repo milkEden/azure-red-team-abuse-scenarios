@@ -27,7 +27,7 @@ All content in this repository adheres to the following boundaries:
 
 ### Excluded
 
-- Live exploit weaponization
+- Live exploit weaponisation
 - Credential harvesting techniques
 - Phishing kits or social engineering scripts
 - Malware payloads or loaders
