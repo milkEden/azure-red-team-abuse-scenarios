@@ -16,9 +16,6 @@ This diagram intentionally avoids tools and commands.
 
 ## Diagram: Azure Identity Token Abuse Flow
 
-**Suggested filename (SVG/PNG):**
-`token-abuse-attack-flow.svg`
-
 ---
 
 ## Flow Description
