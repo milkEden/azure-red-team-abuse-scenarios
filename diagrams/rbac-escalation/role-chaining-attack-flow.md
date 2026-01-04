@@ -16,9 +16,6 @@ No tooling or commands are represented.
 
 ## Diagram: Azure RBAC Role Chaining Flow
 
-**Suggested filename (SVG/PNG):**
-`rbac-role-chaining-attack-flow.svg`
-
 ---
 
 ## Flow Description
