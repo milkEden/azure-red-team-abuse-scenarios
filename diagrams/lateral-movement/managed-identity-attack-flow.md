@@ -15,9 +15,6 @@ No tooling or commands are included.
 
 ## Diagram: Managed Identity Lateral Movement Flow
 
-**Suggested filename (SVG/PNG):**
-`managed-identity-lateral-movement-flow.svg`
-
 ---
 
 ## Flow Description
