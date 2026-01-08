@@ -90,7 +90,7 @@ This reduces friction and detection opportunities.
 
 ---
 
-## Defensive Awareness (Optional)
+## Defensive Awareness
 
 Defenders reduce both options by:
 - Enforcing MFA consistently
