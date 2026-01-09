@@ -148,5 +148,5 @@ Planned future additions:
 
 ---
 
-> **Stealth in Azure is not about exploits.**  
-> It is about **identity, timing, and restraint**.
+> **Stealth in Azure isn't about exploits.**  
+> It's about **identity, timing, and restraint**.
