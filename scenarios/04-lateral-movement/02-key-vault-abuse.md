@@ -103,7 +103,7 @@ Key Vault abuse often succeeds because:
 
 ---
 
-## Defensive Awareness (Optional)
+## Defensive Awareness
 
 Defenders should:
 - Apply least privilege to Key Vault access
