@@ -105,7 +105,7 @@ OAuth abuse often goes unnoticed because:
 
 ---
 
-## Defensive Awareness (Optional)
+## Defensive Awareness
 
 Defenders should:
 - Audit OAuth app consents regularly
