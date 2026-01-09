@@ -102,7 +102,7 @@ Subscription hopping often goes unnoticed because:
 
 ---
 
-## Defensive Awareness (Optional)
+## Defensive Awareness
 
 Defenders should:
 - Review management group role assignments
