@@ -109,7 +109,7 @@ Service principal persistence can evade detection because:
 
 ---
 
-## Defensive Awareness (Optional)
+## Defensive Awareness
 
 Defenders should:
 - Inventory all service principals and app registrations
