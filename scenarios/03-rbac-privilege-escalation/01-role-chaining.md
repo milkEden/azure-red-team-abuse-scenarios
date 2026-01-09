@@ -109,7 +109,7 @@ RBAC abuse often succeeds because:
 
 ---
 
-## Defensive Awareness (Optional)
+## Defensive Awareness
 
 Defenders should:
 - Regularly audit role assignments
