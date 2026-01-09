@@ -98,7 +98,7 @@ The best operations look boring!
 
 ---
 
-## Defensive Awareness (Optional)
+## Defensive Awareness
 
 Defenders improve detection by:
 - Correlating API activity across services
